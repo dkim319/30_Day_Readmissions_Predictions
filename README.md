@@ -33,6 +33,8 @@ There are 4 files.  There is 1 Jupyter Notebook that contains the data analysis 
 
 There are 3 SQL files that are used to query the local PostgresSQL instance that contains the MIMIC-III database.
 
+Github Link: [https://github.com/dkim319/30DayReadmissionsPredictions](https://github.com/dkim319/30DayReadmissionsPredictions)
+
 ## Results<a name="results"></a>
 
 The findings are documented in this Medium post. 
